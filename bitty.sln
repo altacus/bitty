@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitMapperLibTest", "BitMapperLibTest\BitMapperLibTest.csproj", "{3D0F9C45-BFE7-FFE7-9A60-38EC54BC8DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitMapperLib", "BitMapperLib\BitMapperLib.csproj", "{CE4DE354-37BE-3D95-245D-788635072ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0F9C45-BFE7-FFE7-9A60-38EC54BC8DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0F9C45-BFE7-FFE7-9A60-38EC54BC8DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0F9C45-BFE7-FFE7-9A60-38EC54BC8DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0F9C45-BFE7-FFE7-9A60-38EC54BC8DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4DE354-37BE-3D95-245D-788635072ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4DE354-37BE-3D95-245D-788635072ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4DE354-37BE-3D95-245D-788635072ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4DE354-37BE-3D95-245D-788635072ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55A7740-5B62-47C6-A3F3-3D5132375173}
+	EndGlobalSection
+EndGlobal
