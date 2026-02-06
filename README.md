@@ -1,0 +1,2 @@
+# bitty
+bit mapping algorithm 
